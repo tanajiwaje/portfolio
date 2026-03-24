@@ -1,5 +1,7 @@
 # Portfolio App
 
+https://tanajiwaje.github.io/portfolio/
+
 **Overview**
 This is a modern, animated portfolio site built with React, Vite, Tailwind CSS, and Framer Motion. It showcases professional experience, achievements, skills, education, and contact details in a clean single‑page layout.
 
